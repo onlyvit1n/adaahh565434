@@ -24,6 +24,15 @@ const tokens = [
    process.env.TOKEN16,
    process.env.TOKEN17,
    process.env.TOKEN18,
+process.env.TOKEN19,
+process.env.TOKEN20,
+process.env.TOKEN21,
+process.env.TOKEN22,
+process.env.TOKEN23,
+process.env.TOKEN24,
+process.env.TOKEN25,
+process.env.TOKEN26,
+process.env.TOKEN27,
 ];
 
 const bots = [];
